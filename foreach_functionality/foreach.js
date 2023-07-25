@@ -1,4 +1,4 @@
-var arr = ["madhavi", "latha", "madhulatha","madhu"];
+var arr = ["madhavi", "latha", "madhulatha","madhu","harshitha","pavani"];
 function showAlert(name) {
   alert(`${name}, congratulations welcome to JTBB Bootcamp.`);
 }
